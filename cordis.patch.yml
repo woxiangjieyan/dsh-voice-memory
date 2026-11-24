@@ -1,0 +1,7 @@
+# dsh-voice-memory 插件补丁层。
+#
+# 安装后注册本插件。官方语音输入（Voice Input）保持原样：
+# 两个插件可以共存；如果只想保留一个麦克风，可在 Plugins 里关闭官方 Voice Input。
+- insert:
+    - id: voice-memory
+      name: 'dsh-voice-memory'

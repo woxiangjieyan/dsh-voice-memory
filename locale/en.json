@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Voice memory input",
+    "description": "Local Chinese speech recognition with automatic polish and a memory that learns from your corrections, so the same pronunciation is recognized correctly next time.",
+    "detail": "docs/DETAIL.md"
+  }
+}
