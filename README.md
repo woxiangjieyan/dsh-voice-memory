@@ -17,12 +17,13 @@
 
 ## 安装
 
-**从插件市场（推荐）**：在 DSH 的 **Plugins → Discover** 里添加插件索引，然后搜索「语音记忆输入」或 `dsh-voice-memory`：
+**从插件市场**：本插件已提交 dsh.so 社区市场（2026-11-24，等待审核收录）。收录后可在 DSH 的 **Plugins → Discover** 添加索引：
 
 - dsh.so 社区市场索引：`https://cdn.dsh.so/market/index.json`
-- 本插件在索引中的条目由 `https://github.com/woxiangjieyan/dsh-voice-memory` 提供。
 
-**从 GitHub 直接安装**：Plugins → Add plugin，填入：
+然后搜索「语音记忆输入」或 `dsh-voice-memory`。
+
+**现在就能用（从 GitHub 直接安装）**：Plugins → Add plugin，填入：
 
 ```
 git+https://github.com/woxiangjieyan/dsh-voice-memory.git
