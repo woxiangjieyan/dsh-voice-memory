@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2
+
+- 新增 `memory-learn` 路由：系统全域听写无法经过 `agent/pre-step`，托盘助手用显式的“记住上一条修正…”把 raw/final 写入同一份 `memory.json`。
+- Windows 全域听写伴侣（`system/`）：全局热键、托盘、状态条、Unicode SendInput、复用 DSH 的 SenseVoice/润色/记忆。
+
 ## 1.0.1
 
 - 修复：在已有草稿中间用语音补充内容时，光标被预览/整段替换推到末尾、补充内容只出现在末尾。

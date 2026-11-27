@@ -1,6 +1,6 @@
 {
   "name": "dsh-voice-memory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DSH 语音记忆输入：本地 SenseVoice 识别中文与中英混说，自动润色并记住你对识别结果的修改，下次同样的发音直接识别正确。Local voice input with polish and a correction memory learned from your edits.",
   "license": "MIT",
   "author": "woxiangjieyan",
